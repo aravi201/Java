@@ -11,7 +11,7 @@ public class Armstrong {
 		int temp=n;
 		int r=0;
 		int result=0;
-		 int digits = String.valueOf(n).length();
+		int digits = String.valueOf(n).length();
 		while(n>0) {
 			r=n%10;
 			result=result+(int) Math.pow(r, digits);
