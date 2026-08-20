@@ -21,6 +21,7 @@ public class Automorphicnum {
 			Square/=10;
 		}
 		System.out.println("the given number is  a automorphic number");
+		sc.close();
 	}
 
 }
