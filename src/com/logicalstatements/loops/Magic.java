@@ -30,3 +30,7 @@ public class Magic {
 	}
 }
 }
+//Input - 1729=> 1 + 7 + 2 + 9 = 19
+//1 + 9 = 10
+//1 + 0 = 1
+//output - Magic Number
